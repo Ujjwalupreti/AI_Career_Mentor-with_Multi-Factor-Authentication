@@ -105,3 +105,4 @@ We implemented a **Defense-in-Depth** strategy using a dual-verification process
 ---
 
 ## 💻 Frontend Interface
+<img width="1314" height="682" alt="Image" src="https://github.com/user-attachments/assets/94d7a1ad-e115-45a7-b089-35dce2672dd5" />
