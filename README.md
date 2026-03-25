@@ -97,7 +97,7 @@ We implemented a **Defense-in-Depth** strategy using a dual-verification process
 ---
 
 ## 👥 Contributors
-* **Ujjwal Upreti**
+* **Ujjwal Upreti** 
 * **Vaibhav Joshi**
 * **Vishal Singh**
 * **Vishal Singh Rawat** 
