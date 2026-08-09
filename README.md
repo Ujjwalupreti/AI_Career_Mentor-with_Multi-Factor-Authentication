@@ -37,7 +37,7 @@ The platform addresses the confusion many job seekers face by centralizing resum
 ## 🔄 System Architecture & Workflow
 
 The application follows a secure, microservices-inspired architecture to handle heavy AI processing without compromising user experience.
-
+ 
 
 
 1.  **User Onboarding:** Secure registration with Email Verification.
