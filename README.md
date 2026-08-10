@@ -28,7 +28,7 @@ The platform addresses the confusion many job seekers face by centralizing resum
 | :--- | :--- | :--- |
 | **Frontend** | React.js, Tailwind CSS | Responsive SPA with Context API state management |
 | **Backend** | FastAPI (Python) | High-performance asynchronous REST API |
-| **Database** | MySQL | Relational storage for User Data, Resumes, and Roadmaps |
+| **Database** | MySQL | Relational storage for User Data, Resumes, and Roadmaps | 
 | **AI / LLM** | Google Gemini / LangChain | Reasoning engine for resume parsing and chatbot logic |
 | **Security** | Bcrypt, PyJWT, SendGrid | Cryptographic hashing, Stateless Auth, Email OTPs |
 
