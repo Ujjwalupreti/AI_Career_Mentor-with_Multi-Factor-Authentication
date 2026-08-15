@@ -18,7 +18,7 @@ The platform addresses the confusion many job seekers face by centralizing resum
 * **📄 Intelligent Resume Analysis:** Uses NLP to parse resumes, extract skills, and perform a "Gap Analysis" against industry standards.
 * **🗺️ Personalized Career Roadmaps:** Generates week-by-week learning curricula tailored to specific roles (e.g., "Full Stack Developer").
 * **🎤 AI Mock Interviews:** Simulates technical interviews and provides instant AI-driven feedback on answer quality.
-* **📈 Real-Time Job Integration:** Fetches relevant job listings and salary trends to ensure advice is grounded in market reality.
+* **📈 Real-Time Job Integration:** Fetches relevant job listings and salary trends to ensure advice is grounded in market reality.   
 
 ---
 
