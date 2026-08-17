@@ -63,7 +63,7 @@ We implemented a **Defense-in-Depth** strategy using a dual-verification process
 * **Flow:** Login Credentials $\rightarrow$ Verify Hash $\rightarrow$ Email OTP $\rightarrow$ Issue JWT.
 
 #### 2️⃣ Advanced Brute-Force Protection
-* **Circuit Breaker:** Tracks failed login attempts per user.
+* **Circuit Breaker:** Tracks failed login attempts per user. 
 * **Lockout Policy:** Accounts are temporarily locked after repeated failures to neutralize automated bot attacks.
 
 #### 3️⃣ Secure Session Management
