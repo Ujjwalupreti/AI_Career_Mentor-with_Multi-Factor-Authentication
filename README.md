@@ -94,7 +94,7 @@ We implemented a **Defense-in-Depth** strategy using a dual-verification process
 ### 🧠 Application Features
 - [ ] **Advance Vector Search:** Semantic search for learning resources.
 - [ ] **Community Hub:** Peer-to-peer mentorship and code reviews.
----
+---    
 
 ## 👥 Contributors
 * **Ujjwal Upreti** 
